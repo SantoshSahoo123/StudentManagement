@@ -1,0 +1,27 @@
+[{
+  "_id": 1,
+  "name": "santosh",
+  "age": 24,
+  "birthDay": 12,
+  "birthMonth": 8,
+  "birthYear": 2000,
+  "_class": "com.student.entity.StudentEntityDao"
+},
+{
+  "_id": 2,
+  "name": "chinmay",
+  "age": 23,
+  "birthDay": 2,
+  "birthMonth": 6,
+  "birthYear": 2001,
+  "_class": "com.student.entity.StudentEntityDao"
+},
+{
+  "_id": 3,
+  "name": "chinmay1",
+  "age": 23,
+  "birthDay": 2,
+  "birthMonth": 6,
+  "birthYear": 2001,
+  "_class": "com.student.entity.StudentEntityDao"
+}]
